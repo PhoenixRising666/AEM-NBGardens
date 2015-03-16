@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>NBGardens Package</comment>
+<entry key="createdBy">mwashburn</entry>
+<entry key="name">nbgardens-content</entry>
+<entry key="created">2015-03-16T14:43:20.018+0000</entry>
+<entry key="groupId">nbgardens</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">NBGardens</entry>
+<entry key="description">Maven Multimodule project for NBGardens.</entry>
+<entry key="artifactId">nbgardens-content</entry>
+<entry key="path">/etc/packages/NBGardens/nbgardens-content.zip</entry>
+</properties>
